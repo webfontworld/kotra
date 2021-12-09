@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KotraSongeulssi';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraSongeulssi.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraSongeulssi.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraSongeulssi.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraSongeulssi.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraSongeulssi.ttf') format("truetype");
+    font-display: swap;
+}

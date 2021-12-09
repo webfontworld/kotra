@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KotraGothic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraGothic.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraGothic.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraGothic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraGothic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/kotra/KotraGothic.ttf') format("truetype");
+    font-display: swap;
+}
